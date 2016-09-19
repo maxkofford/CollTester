@@ -1,0 +1,20 @@
+[submodule "submodules/InHouse_Assets"]
+	path = submodules/InHouse_Assets
+	url = git@github.com:Corastar/InHouse_Assets.git
+	branch = master
+[submodule "submodules/Purchased_Assets"]
+	path = submodules/Purchased_Assets
+	url = git@github.com:Corastar/Purchased_Assets.git
+	branch = master
+[submodule "submodules/HoloToolkit-Unity"]
+	path = submodules/HoloToolkit-Unity
+	url = git@github.com:gomez-addams/HoloToolkit-Unity
+	branch = LOCAL_FIXES
+[submodule "submodules/LeanTween"]
+	path = submodules/LeanTween
+	url = git@github.com:gomez-addams/LeanTween
+	branch = LOCAL_FIXES
+[submodule "submodules/SteamVR_Unity_Toolkit"]
+	path = submodules/SteamVR_Unity_Toolkit
+	url = git@github.com:gomez-addams/SteamVR_Unity_Toolkit
+	branch = LOCAL_FIXES
